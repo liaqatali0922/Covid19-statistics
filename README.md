@@ -1,2 +1,2 @@
-# Covid19-statistics
-SQL Query for Covid-19 Victims Details
+# Covid19-Statistics_SQL
+Covid-19_Statistics_SQL
